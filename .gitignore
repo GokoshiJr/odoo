@@ -1,3 +1,9 @@
+# virtuals envs
+venv
+
+# conf files
+*.conf
+
 # sphinx build directories
 _build/
 
